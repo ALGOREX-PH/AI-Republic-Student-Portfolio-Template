@@ -52,7 +52,7 @@ Let’s create something extraordinary together. Reach out, and let’s discuss 
           <div className="flex justify-center items-center">
             <div className="relative w-72 h-72 sm:w-96 sm:h-96">
               <Image
-                src="https://github.com/jaydiaz2012/Jeremie_Diaz_AI_DS_Portfolio/blob/main/app/images/jay_hiking.jpg" // Change to your Photo Please
+                src="https://github.com/jaydiaz2012/Jeremie_Diaz-AI-Republic-Portfolio/blob/main/app/images/jay_hiking.jpg" // Change to your Photo Please
                 alt="Profile"
                 fill
                 className="rounded-3xl object-cover"
